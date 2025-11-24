@@ -1,13 +1,18 @@
 {
   "name": "market-pips",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A General Pips Calculator for Forex Trading",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "index.js"
   },
-  "keywords": ["Trading", "Forex", "Pips Calculator", "Market Pips"],
+  "keywords": [
+    "Trading",
+    "Forex",
+    "Pips Calculator",
+    "Market Pips"
+  ],
   "author": "Abdelilah Lakrim",
   "license": "MIT",
   "type": "commonjs"
