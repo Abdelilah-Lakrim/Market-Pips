@@ -20,5 +20,5 @@ Installation
 2. Install dependencies (if any are declared in [package.json](package.json)):
 
 ```sh
-npm install Market Pips
+npm install market-pipscalc
 ```
