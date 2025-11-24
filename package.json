@@ -1,5 +1,5 @@
 {
-  "name": "market-pips",
+  "name": "market-pipscalc",
   "version": "1.1.0",
   "description": "A General Pips Calculator for Forex Trading",
   "main": "index.js",
